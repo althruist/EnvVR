@@ -7,4 +7,4 @@ This game allows you to explore a basic concept of two worlds (the forest and th
 
 The entire project is based on [A-Frame](https://aframe.io) (with a touch of native Three.js and other components), and all the files are neatly organised for your convenience.
 
-**Head over to [my page](https://althruist.fyi) to play the game!!**
+**Head over to [my page](https://envvr.althruist.fyi) to play the game!!**
