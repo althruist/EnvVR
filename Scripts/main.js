@@ -13,6 +13,7 @@ import { setAmbience, playSound, stopAmbience } from './Utils/sound.js';
 import { objectiveVR } from './Utils/objectives.js';
 import { haptics } from './Utils/haptics.js';
 import { setTooltip, tooltipVisibility } from './Utils/tooltip.js';
+import { viewport } from './Utils/cinematic.js'
 // import { say } from './Utils/say.js';
 import { setSubtitle } from './Utils/subtitles.js';
 import { say } from './Utils/voicelines.js';
